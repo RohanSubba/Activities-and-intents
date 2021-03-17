@@ -14,6 +14,7 @@ Second Activity
 <img src="task2/secondactivity.png" width="250" height="400">
 <br />
 <b>Task 3</b>
+<br />
 <img src="task3/task3.png" width="250" height="400">
 <br />
 <b>Task 4</b>
