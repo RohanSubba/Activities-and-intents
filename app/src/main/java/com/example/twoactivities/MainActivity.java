@@ -11,7 +11,7 @@ import com.example.twoactivities.SecondActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String EXTRA_TEXT = "me.mahakagg.threebuttonstwoactivities.extra.TEXT";
+    public static final String EXTRA_TEXT = "me.rohansubba.threebuttonstwoactivities.extra.TEXT";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
